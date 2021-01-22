@@ -21,10 +21,12 @@ interface IColorDetails {
 }
 
 export function vexAvatar(fg: string, bg: string): string {
-    return avatar.replace(FG_COLOR, fg).replace(BG_COLOR, bg);
+    return `data:image/svg+xml;utf8,${encodeURIComponent(
+        avatar.replace(FG_COLOR, fg).replace(BG_COLOR, bg)
+    )}`;
 }
 
-export function vexAvatarFromUUID(uuid: string) {
+export function vexAvatarFromUUID(uuid: string): string {
     const bgStr = `#${uuid.slice(0, 6)}`;
     const bgColor: IColorDetails = getClosestColor(bgStr, colorList);
 
