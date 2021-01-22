@@ -1,0 +1,3734 @@
+[
+    {
+        "name": "Vex White",
+        "variable": "$vex-white",
+        "hex": "#F2F1F0",
+        "rgb": "rgb(242, 241, 240)",
+        "hsl": "hsl(30, 7.1%, 94.5%)",
+        "pms": "P 179-1 C",
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 18.61582198244073
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 15.827391943247703
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 15.194383269482268
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 14.084637962799055
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 13.581314448203411
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 13.340785345822447
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 13.150359871710624
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 12.894528614383844
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 12.21526946554406
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 11.348346046141954
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 11.211858050339279
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 9.861646017299043
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 9.623519835143924
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 9.448930389503806
+            },
+            {
+                "name": "Vex Purple",
+                "contrast": 8.852229376121256
+            },
+            {
+                "name": "Vex Blue Dark",
+                "contrast": 7.797258724077417
+            },
+            {
+                "name": "Vex Aqua Dark",
+                "contrast": 7.6858129761713805
+            },
+            {
+                "name": "Vex Pink Dark",
+                "contrast": 7.3650485169534035
+            },
+            {
+                "name": "Vex Black Lightest",
+                "contrast": 7.292414499389416
+            },
+            {
+                "name": "Vex Green Dark",
+                "contrast": 6.384317162282352
+            },
+            {
+                "name": "Vex Orange Dark",
+                "contrast": 5.226542348695318
+            },
+            {
+                "name": "Vex Red",
+                "contrast": 5.215334323178664
+            }
+        ]
+    },
+    {
+        "name": "Vex White Lightest",
+        "variable": "$vex-white-lightest",
+        "hex": "#FFFFFF",
+        "rgb": "rgb(255, 255, 255)",
+        "hsl": "hsl(0, 0%, 100%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 21
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 17.854448281774122
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 17.140368497297622
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 15.888495146643033
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 15.320709645875006
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 15.049375339242472
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 14.834561566306727
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 14.54596531689427
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 13.779711635531697
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 12.8017590194927
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 12.647790641703109
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 11.124653349103829
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 10.85602971110523
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 10.659080129082971
+            },
+            {
+                "name": "Vex Purple",
+                "contrast": 9.98595802398049
+            },
+            {
+                "name": "Vex Blue Dark",
+                "contrast": 8.795874464209795
+            },
+            {
+                "name": "Vex Aqua Dark",
+                "contrast": 8.670155561857039
+            },
+            {
+                "name": "Vex Pink Dark",
+                "contrast": 8.308309942043351
+            },
+            {
+                "name": "Vex Black Lightest",
+                "contrast": 8.226373491948241
+            },
+            {
+                "name": "Vex Green Dark",
+                "contrast": 7.2019737046470915
+            },
+            {
+                "name": "Vex Orange Dark",
+                "contrast": 5.895919579921302
+            },
+            {
+                "name": "Vex Red",
+                "contrast": 5.883276112656104
+            },
+            {
+                "name": "Vex Blue",
+                "contrast": 4.885798216598434
+            }
+        ]
+    },
+    {
+        "name": "Vex White Light",
+        "variable": "$vex-white-light",
+        "hex": "#D9D8D7",
+        "rgb": "rgb(217, 216, 215)",
+        "hsl": "hsl(30, 2.6%, 84.7%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 14.753948764238451
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 12.543981674430507
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 12.042291362347425
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 11.162763968305837
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 10.763855483191126
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 10.573224413760814
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 10.422302918534779
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 10.219544143421313
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 9.681198069362624
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 8.994118888843941
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 8.885945481357249
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 7.815836453932932
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 7.627109816223663
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 7.488739147542968
+            },
+            {
+                "name": "Vex Purple",
+                "contrast": 7.01582443084019
+            },
+            {
+                "name": "Vex Blue Dark",
+                "contrast": 6.179708627696412
+            },
+            {
+                "name": "Vex Aqua Dark",
+                "contrast": 6.091382425600751
+            },
+            {
+                "name": "Vex Pink Dark",
+                "contrast": 5.837160914396216
+            },
+            {
+                "name": "Vex Black Lightest",
+                "contrast": 5.7795949055092235
+            },
+            {
+                "name": "Vex Green Dark",
+                "contrast": 5.059883382845513
+            }
+        ]
+    },
+    {
+        "name": "Vex White Dark",
+        "variable": "$vex-white-dark",
+        "hex": "#A9A9A8",
+        "rgb": "rgb(169, 169, 168)",
+        "hsl": "hsl(60, 0.6%, 66.1%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 8.92762071921533
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 7.590368686215486
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 7.286795663402858
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 6.754593260396312
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 6.513213565123613
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 6.397862623327112
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 6.306539961896922
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 6.183850540194899
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 5.8580971001040645
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 5.442345193563084
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 5.376889418341259
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 4.729365987311788
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 4.615167417965727
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 4.531439267056074
+            }
+        ]
+    },
+    {
+        "name": "Vex White Darkest",
+        "variable": "$vex-white-darkest",
+        "hex": "#7A7978",
+        "rgb": "rgb(122, 121, 120)",
+        "hsl": "hsl(30, 0.8%, 47.5%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 4.833677080164039
+            }
+        ]
+    },
+    {
+        "name": "Vex Black",
+        "variable": "vex-black",
+        "hex": "#25282A",
+        "rgb": "rgb(37, 40, 42)",
+        "hsl": "hsl(204, 6.3%, 15.5%)",
+        "pms": "426 C",
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 14.834561566306727
+            },
+            {
+                "name": "Vex White",
+                "contrast": 13.150359871710624
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 12.75491300092447
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 12.369890737856586
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 11.846047174415883
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 11.572950873421307
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 11.294882098009293
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 11.022503384480054
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 10.422302918534779
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 10.344351516341058
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 10.30659646862987
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 9.422689094829341
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 8.742206130350619
+            },
+            {
+                "name": "Vex Aqua Light",
+                "contrast": 7.345963193499246
+            },
+            {
+                "name": "Vex Orange Light",
+                "contrast": 7.299880895654676
+            },
+            {
+                "name": "Vex Yellow",
+                "contrast": 7.176092223047296
+            },
+            {
+                "name": "Vex Green",
+                "contrast": 6.489030913073554
+            },
+            {
+                "name": "Vex Pink Light",
+                "contrast": 6.4386142021911885
+            },
+            {
+                "name": "Vex White Dark",
+                "contrast": 6.306539961896922
+            },
+            {
+                "name": "Vex Blue Light",
+                "contrast": 5.809919913043116
+            },
+            {
+                "name": "Vex Aqua",
+                "contrast": 5.097270358249339
+            },
+            {
+                "name": "Vex Orange",
+                "contrast": 5.095287652888301
+            },
+            {
+                "name": "Vex Red Light",
+                "contrast": 4.708349990291783
+            }
+        ]
+    },
+    {
+        "name": "Vex Black Lightest",
+        "variable": "vex-black-lightest",
+        "hex": "#4D4F51",
+        "rgb": "rgb(77, 79, 81)",
+        "hsl": "hsl(210, 2.5%, 31%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 8.226373491948241
+            },
+            {
+                "name": "Vex White",
+                "contrast": 7.292414499389416
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 7.073122972587725
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 6.8596123187976294
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 6.569119553982527
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 6.417676441814419
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 6.26347588841327
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 6.112430707958655
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 5.7795949055092235
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 5.736367652327499
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 5.715430928158718
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 5.225267996368038
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 4.847912252102264
+            }
+        ]
+    },
+    {
+        "name": "Vex Black Light",
+        "variable": "vex-black-light",
+        "hex": "#393C3D",
+        "rgb": "rgb(57, 60, 61)",
+        "hsl": "hsl(195, 3.4%, 23.1%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 11.124653349103829
+            },
+            {
+                "name": "Vex White",
+                "contrast": 9.861646017299043
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 9.565094660804922
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 9.276360869167556
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 8.883522966517768
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 8.678724080759828
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 8.470196264157924
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 8.265935507670866
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 7.815836453932932
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 7.757379564350747
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 7.729066505276605
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 7.066211517463458
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 6.555907451114094
+            },
+            {
+                "name": "Vex Aqua Light",
+                "contrast": 5.508844577420194
+            },
+            {
+                "name": "Vex Orange Light",
+                "contrast": 5.474286792428734
+            },
+            {
+                "name": "Vex Yellow",
+                "contrast": 5.381455867487173
+            },
+            {
+                "name": "Vex Green",
+                "contrast": 4.866218604230328
+            },
+            {
+                "name": "Vex Pink Light",
+                "contrast": 4.828410379898158
+            },
+            {
+                "name": "Vex White Dark",
+                "contrast": 4.729365987311788
+            }
+        ]
+    },
+    {
+        "name": "Vex Black Dark",
+        "variable": "vex-black-dark",
+        "hex": "#191C1D",
+        "rgb": "rgb(25, 28, 29)",
+        "hsl": "hsl(195, 7.4%, 10.6%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 17.140368497297622
+            },
+            {
+                "name": "Vex White",
+                "contrast": 15.194383269482268
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 14.737470198200619
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 14.292602081327109
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 13.687335004698127
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 13.37179003807588
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 13.050499701529665
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 12.735783860428244
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 12.042291362347425
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 11.952223600485416
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 11.908600104940213
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 10.887302775949346
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 10.101049086201598
+            },
+            {
+                "name": "Vex Aqua Light",
+                "contrast": 8.48778142457162
+            },
+            {
+                "name": "Vex Orange Light",
+                "contrast": 8.43453633453457
+            },
+            {
+                "name": "Vex Yellow",
+                "contrast": 8.291506595853182
+            },
+            {
+                "name": "Vex Green",
+                "contrast": 7.4976520568735125
+            },
+            {
+                "name": "Vex Pink Light",
+                "contrast": 7.439398835227366
+            },
+            {
+                "name": "Vex White Dark",
+                "contrast": 7.286795663402858
+            },
+            {
+                "name": "Vex Blue Light",
+                "contrast": 6.712983582577104
+            },
+            {
+                "name": "Vex Aqua",
+                "contrast": 5.889563495370473
+            },
+            {
+                "name": "Vex Orange",
+                "contrast": 5.887272608622129
+            },
+            {
+                "name": "Vex Red Light",
+                "contrast": 5.440191372500465
+            },
+            {
+                "name": "Vex Purple Light",
+                "contrast": 4.995789782579575
+            }
+        ]
+    },
+    {
+        "name": "Vex Black Darkest",
+        "variable": "vex-black-darkest",
+        "hex": "#000000",
+        "rgb": "rgb(0, 0, 0)",
+        "hsl": "hsl(0, 0%, 0%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 21
+            },
+            {
+                "name": "Vex White",
+                "contrast": 18.61582198244073
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 18.056022203432043
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 17.51097963589234
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 16.769419814047637
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 16.382821107017975
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 15.989183299958327
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 15.603600419160179
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 14.753948764238451
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 14.643599736479777
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 14.590153195549593
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 13.3388823193027
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 12.375581706057082
+            },
+            {
+                "name": "Vex Aqua Light",
+                "contrast": 10.39904188431574
+            },
+            {
+                "name": "Vex Orange Light",
+                "contrast": 10.333807178833514
+            },
+            {
+                "name": "Vex Yellow",
+                "contrast": 10.158570309638856
+            },
+            {
+                "name": "Vex Green",
+                "contrast": 9.185957304194929
+            },
+            {
+                "name": "Vex Pink Light",
+                "contrast": 9.114586746743848
+            },
+            {
+                "name": "Vex White Dark",
+                "contrast": 8.92762071921533
+            },
+            {
+                "name": "Vex Blue Light",
+                "contrast": 8.224598861824072
+            },
+            {
+                "name": "Vex Aqua",
+                "contrast": 7.215762801265308
+            },
+            {
+                "name": "Vex Orange",
+                "contrast": 7.2129560575408185
+            },
+            {
+                "name": "Vex Red Light",
+                "contrast": 6.665202025296111
+            },
+            {
+                "name": "Vex Purple Light",
+                "contrast": 6.1207310362499845
+            },
+            {
+                "name": "Vex Pink",
+                "contrast": 5.306719547093577
+            },
+            {
+                "name": "Vex Yellow Dark",
+                "contrast": 4.897291628468426
+            },
+            {
+                "name": "Vex White Darkest",
+                "contrast": 4.833677080164039
+            }
+        ]
+    },
+    {
+        "name": "Vex Green",
+        "variable": "vex-green",
+        "hex": "#78BE21",
+        "rgb": "rgb(120, 190, 33)",
+        "hsl": "hsl(86.80000000000001, 70.4%, 43.7%)",
+        "pms": "368 C",
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 9.185957304194929
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 7.810009505063504
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 7.4976520568735125
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 6.950049430712916
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 6.701684984617867
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 6.582996158146925
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 6.489030913073554
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 6.362791254728144
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 6.027611559433916
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 5.599829131983442
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 5.532479277480045
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 4.866218604230328
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 4.748715496156393
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 4.662564522273749
+            }
+        ]
+    },
+    {
+        "name": "Vex Green Lightest",
+        "variable": "vex-green-lightest",
+        "hex": "#E2EFD2",
+        "rgb": "rgb(226, 239, 210)",
+        "hsl": "hsl(86.89999999999998, 47.5%, 88%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 17.51097963589234
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 14.888041917725698
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 14.292602081327109
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 13.248719759897163
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 12.775268315063649
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 12.549014528494064
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 12.369890737856586
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 12.129242973739611
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 11.49029761134592
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 10.67482578542561
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 10.546438303137757
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 9.276360869167556
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 9.05236739037171
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 8.888139765605553
+            },
+            {
+                "name": "Vex Purple",
+                "contrast": 8.326852742990384
+            },
+            {
+                "name": "Vex Blue Dark",
+                "contrast": 7.334494220125866
+            },
+            {
+                "name": "Vex Aqua Dark",
+                "contrast": 7.22966273731892
+            },
+            {
+                "name": "Vex Pink Dark",
+                "contrast": 6.92793553351443
+            },
+            {
+                "name": "Vex Black Lightest",
+                "contrast": 6.8596123187976294
+            },
+            {
+                "name": "Vex Green Dark",
+                "contrast": 6.0054102323955885
+            },
+            {
+                "name": "Vex Orange Dark",
+                "contrast": 4.9163489380409935
+            },
+            {
+                "name": "Vex Red",
+                "contrast": 4.905806104812043
+            }
+        ]
+    },
+    {
+        "name": "Vex Green Light",
+        "variable": "vex-green-light",
+        "hex": "#ADD37A",
+        "rgb": "rgb(173, 211, 122)",
+        "hsl": "hsl(85.60000000000002, 50.3%, 65.3%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 12.375581706057082
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 10.521865882269815
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 10.101049086201598
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 9.363303327312963
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 9.028699715109665
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 8.868798768376939
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 8.742206130350619
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 8.572132489176072
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 8.120568915782284
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 7.544248320332623
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 7.453512689880998
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 6.555907451114094
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 6.39760393776981
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 6.281538907089322
+            },
+            {
+                "name": "Vex Purple",
+                "contrast": 5.884859020906041
+            },
+            {
+                "name": "Vex Blue Dark",
+                "contrast": 5.183526814669017
+            },
+            {
+                "name": "Vex Aqua Dark",
+                "contrast": 5.109438979047001
+            },
+            {
+                "name": "Vex Pink Dark",
+                "contrast": 4.896198501285899
+            },
+            {
+                "name": "Vex Black Lightest",
+                "contrast": 4.847912252102264
+            }
+        ]
+    },
+    {
+        "name": "Vex Green Dark",
+        "variable": "vex-green-dark",
+        "hex": "#3E602D",
+        "rgb": "rgb(62, 96, 45)",
+        "hsl": "hsl(100, 36.2%, 27.6%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 7.2019737046470915
+            },
+            {
+                "name": "Vex White",
+                "contrast": 6.384317162282352
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 6.19233319617341
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 6.0054102323955885
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 5.751091454426619
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 5.618506991460991
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 5.483508461194394
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 5.351272376981521
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 5.059883382845513
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 5.022039059214497
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 5.003709507672424
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 4.574584748238098
+            }
+        ]
+    },
+    {
+        "name": "Vex Green Darkest",
+        "variable": "vex-green-darkest",
+        "hex": "#233118",
+        "rgb": "rgb(35, 49, 24)",
+        "hsl": "hsl(93.60000000000002, 34.2%, 14.3%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 13.779711635531697
+            },
+            {
+                "name": "Vex White",
+                "contrast": 12.21526946554406
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 11.847941868954818
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 11.49029761134592
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 11.00370330155943
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 10.750026220533803
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 10.491730245765945
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 10.238719726289942
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 9.681198069362624
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 9.608789603563775
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 9.573719226328796
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 8.752664376203974
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 8.120568915782284
+            },
+            {
+                "name": "Vex Aqua Light",
+                "contrast": 6.823609450080337
+            },
+            {
+                "name": "Vex Orange Light",
+                "contrast": 6.780803953405388
+            },
+            {
+                "name": "Vex Yellow",
+                "contrast": 6.665817595052257
+            },
+            {
+                "name": "Vex Green",
+                "contrast": 6.027611559433916
+            },
+            {
+                "name": "Vex Pink Light",
+                "contrast": 5.98077985938901
+            },
+            {
+                "name": "Vex White Dark",
+                "contrast": 5.8580971001040645
+            },
+            {
+                "name": "Vex Blue Light",
+                "contrast": 5.396790506374186
+            },
+            {
+                "name": "Vex Aqua",
+                "contrast": 4.73481574437297
+            },
+            {
+                "name": "Vex Orange",
+                "contrast": 4.732974024413051
+            }
+        ]
+    },
+    {
+        "name": "Vex Aqua",
+        "variable": "vex-aqua",
+        "hex": "#00AB8E",
+        "rgb": "rgb(0, 171, 142)",
+        "hsl": "hsl(169.79999999999995, 100%, 33.5%)",
+        "pms": "3268 C",
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 7.215762801265308
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 6.134926845178143
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 5.889563495370473
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 5.459410107011008
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 5.264314607223403
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 5.171082035961206
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 5.097270358249339
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 4.998106449625762
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 4.73481574437297
+            }
+        ]
+    },
+    {
+        "name": "Vex Aqua Lightest",
+        "variable": "vex-aqua-lightest",
+        "hex": "#CDE9E5",
+        "rgb": "rgb(205, 233, 229)",
+        "hsl": "hsl(171.39999999999998, 38.9%, 85.9%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 16.382821107017975
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 13.92886819832428
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 13.37179003807588
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 12.39516064986553
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 11.952211683854044
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 11.740534474056066
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 11.572950873421307
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 11.347807029312706
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 10.750026220533803
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 9.987091803404892
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 9.866975784858957
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 8.678724080759828
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 8.469161556643286
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 8.315514424768399
+            },
+            {
+                "name": "Vex Purple",
+                "contrast": 7.790388756622051
+            },
+            {
+                "name": "Vex Blue Dark",
+                "contrast": 6.861963706044602
+            },
+            {
+                "name": "Vex Aqua Dark",
+                "contrast": 6.7638860733295605
+            },
+            {
+                "name": "Vex Pink Dark",
+                "contrast": 6.481597880102624
+            },
+            {
+                "name": "Vex Black Lightest",
+                "contrast": 6.417676441814419
+            },
+            {
+                "name": "Vex Green Dark",
+                "contrast": 5.618506991460991
+            },
+            {
+                "name": "Vex Orange Dark",
+                "contrast": 4.599609320915013
+            },
+            {
+                "name": "Vex Red",
+                "contrast": 4.589745717944623
+            }
+        ]
+    },
+    {
+        "name": "Vex Aqua Light",
+        "variable": "vex-aqua-light",
+        "hex": "#6CC6B7",
+        "rgb": "rgb(108, 198, 183)",
+        "hsl": "hsl(170, 44.1%, 60%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 10.39904188431574
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 8.841388357310395
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 8.48778142457162
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 7.867863167080393
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 7.586700062137826
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 7.452337356455756
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 7.345963193499246
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 7.203052503723218
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 6.823609450080337
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 6.339334677934351
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 6.26309069652987
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 5.508844577420194
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 5.375824174436161
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 5.278296224314831
+            },
+            {
+                "name": "Vex Purple",
+                "contrast": 4.944971226018665
+            }
+        ]
+    },
+    {
+        "name": "Vex Aqua Dark",
+        "variable": "vex-aqua-dark",
+        "hex": "#005647",
+        "rgb": "rgb(0, 86, 71)",
+        "hsl": "hsl(169.5, 100%, 16.9%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 8.670155561857039
+            },
+            {
+                "name": "Vex White",
+                "contrast": 7.6858129761713805
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 7.454691492004786
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 7.22966273731892
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 6.923498974756225
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 6.7638860733295605
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 6.601366977032636
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 6.4421734742464976
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 6.091382425600751
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 6.045823223849924
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 6.023757041749549
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 5.507151653793277
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 5.109438979047001
+            }
+        ]
+    },
+    {
+        "name": "Vex Aqua Darkest",
+        "variable": "vex-aqua-darkest",
+        "hex": "#052F28",
+        "rgb": "rgb(5, 47, 40)",
+        "hsl": "hsl(170, 80.8%, 10.2%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 14.54596531689427
+            },
+            {
+                "name": "Vex White",
+                "contrast": 12.894528614383844
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 12.506774892009302
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 12.129242973739611
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 11.61559042855126
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 11.347807029312706
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 11.075147891745662
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 10.808068119799088
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 10.219544143421313
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 10.143109232443662
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 10.106088683363737
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 9.239377122986252
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 8.572132489176072
+            },
+            {
+                "name": "Vex Aqua Light",
+                "contrast": 7.203052503723218
+            },
+            {
+                "name": "Vex Orange Light",
+                "contrast": 7.157866705465967
+            },
+            {
+                "name": "Vex Yellow",
+                "contrast": 7.03648625682089
+            },
+            {
+                "name": "Vex Green",
+                "contrast": 6.362791254728144
+            },
+            {
+                "name": "Vex Pink Light",
+                "contrast": 6.313355366474295
+            },
+            {
+                "name": "Vex White Dark",
+                "contrast": 6.183850540194899
+            },
+            {
+                "name": "Vex Blue Light",
+                "contrast": 5.69689189473624
+            },
+            {
+                "name": "Vex Aqua",
+                "contrast": 4.998106449625762
+            },
+            {
+                "name": "Vex Orange",
+                "contrast": 4.996162316441485
+            },
+            {
+                "name": "Vex Red Light",
+                "contrast": 4.616752261430984
+            }
+        ]
+    },
+    {
+        "name": "Vex Blue",
+        "variable": "vex-blue",
+        "hex": "#0072CE",
+        "rgb": "rgb(0, 114, 206)",
+        "hsl": "hsl(206.79999999999995, 100%, 40.4%)",
+        "pms": "285 C",
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 4.885798216598434
+            }
+        ]
+    },
+    {
+        "name": "Vex Blue Lightest",
+        "variable": "vex-blue-lightest",
+        "hex": "#CBE1F3",
+        "rgb": "rgb(203, 225, 243)",
+        "hsl": "hsl(207, 62.5%, 87.5%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 15.603600419160179
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 13.266365556826877
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 12.735783860428244
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 11.80560616809446
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 11.383725307247936
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 11.182116159595367
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 11.022503384480054
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 10.808068119799088
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 10.238719726289942
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 9.512072971549708
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 9.397670064682325
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 8.265935507670866
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 8.066340464315092
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 7.920001293810523
+            },
+            {
+                "name": "Vex Purple",
+                "contrast": 7.419852324223711
+            },
+            {
+                "name": "Vex Blue Dark",
+                "contrast": 6.535586213172584
+            },
+            {
+                "name": "Vex Aqua Dark",
+                "contrast": 6.4421734742464976
+            },
+            {
+                "name": "Vex Pink Dark",
+                "contrast": 6.173311833056206
+            },
+            {
+                "name": "Vex Black Lightest",
+                "contrast": 6.112430707958655
+            },
+            {
+                "name": "Vex Green Dark",
+                "contrast": 5.351272376981521
+            }
+        ]
+    },
+    {
+        "name": "Vex Blue Light",
+        "variable": "vex-blue-light",
+        "hex": "#69A8DB",
+        "rgb": "rgb(105, 168, 219)",
+        "hsl": "hsl(206.79999999999995, 61.3%, 63.5%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 8.224598861824072
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 6.992651191275057
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 6.712983582577104
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 6.2226904332941695
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 6.0003186245619355
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 5.894051204109376
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 5.809919913043116
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 5.69689189473624
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 5.396790506374186
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 5.013777745765033
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 4.953476405540025
+            }
+        ]
+    },
+    {
+        "name": "Vex Blue Dark",
+        "variable": "vex-blue-dark",
+        "hex": "#0B4D80",
+        "rgb": "rgb(11, 77, 128)",
+        "hsl": "hsl(206.20000000000005, 84.2%, 27.3%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 8.795874464209795
+            },
+            {
+                "name": "Vex White",
+                "contrast": 7.797258724077417
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 7.5627859344939505
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 7.334494220125866
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 7.023891024856923
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 6.861963706044602
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 6.697088051984435
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 6.535586213172584
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 6.179708627696412
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 6.133488808867226
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 6.1111026629354095
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 5.5870063987359115
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 5.183526814669017
+            }
+        ]
+    },
+    {
+        "name": "Vex Blue Darkest",
+        "variable": "vex-blue-darkest",
+        "hex": "#052740",
+        "rgb": "rgb(5, 39, 64)",
+        "hsl": "hsl(205.39999999999998, 85.5%, 13.5%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 15.320709645875006
+            },
+            {
+                "name": "Vex White",
+                "contrast": 13.581314448203411
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 13.172908263726407
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 12.775268315063649
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 12.234257709562241
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 11.952211683854044
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 11.665030229206433
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 11.383725307247936
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 10.763855483191126
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 10.683349511096115
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 10.644357180850033
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 9.731483000692021
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 9.028699715109665
+            },
+            {
+                "name": "Vex Aqua Light",
+                "contrast": 7.586700062137826
+            },
+            {
+                "name": "Vex Orange Light",
+                "contrast": 7.539107586827
+            },
+            {
+                "name": "Vex Yellow",
+                "contrast": 7.4112621967230226
+            },
+            {
+                "name": "Vex Green",
+                "contrast": 6.701684984617867
+            },
+            {
+                "name": "Vex Pink Light",
+                "contrast": 6.649616051857285
+            },
+            {
+                "name": "Vex White Dark",
+                "contrast": 6.513213565123613
+            },
+            {
+                "name": "Vex Blue Light",
+                "contrast": 6.0003186245619355
+            },
+            {
+                "name": "Vex Aqua",
+                "contrast": 5.264314607223403
+            },
+            {
+                "name": "Vex Orange",
+                "contrast": 5.262266926001818
+            },
+            {
+                "name": "Vex Red Light",
+                "contrast": 4.862648807650464
+            }
+        ]
+    },
+    {
+        "name": "Vex Purple",
+        "variable": "vex-purple",
+        "hex": "#582C83",
+        "rgb": "rgb(88, 44, 131)",
+        "hsl": "hsl(270.29999999999995, 49.7%, 34.3%)",
+        "pms": "268 C",
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 9.98595802398049
+            },
+            {
+                "name": "Vex White",
+                "contrast": 8.852229376121256
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 8.586032371596765
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 8.326852742990384
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 7.9742248737898285
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 7.790388756622051
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 7.603205393862557
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 7.419852324223711
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 7.01582443084019
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 6.963351061355182
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 6.93793606543824
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 6.342929472732013
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 5.884859020906041
+            },
+            {
+                "name": "Vex Aqua Light",
+                "contrast": 4.944971226018665
+            },
+            {
+                "name": "Vex Orange Light",
+                "contrast": 4.91395070074951
+            },
+            {
+                "name": "Vex Yellow",
+                "contrast": 4.830621747414672
+            }
+        ]
+    },
+    {
+        "name": "Vex Purple Lightest",
+        "variable": "vex-purple-lightest",
+        "hex": "#DED4E4",
+        "rgb": "rgb(222, 212, 228)",
+        "hsl": "hsl(277.5, 22.9%, 86.3%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 14.643599736479777
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 12.450161626379968
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 11.952223600485416
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 11.079274444878196
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 10.683349511096115
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 10.49414422628173
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 10.344351516341058
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 10.143109232443662
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 9.608789603563775
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 8.926849285920042
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 8.819484938471192
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 7.757379564350747
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 7.570064467464627
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 7.432728712826487
+            },
+            {
+                "name": "Vex Purple",
+                "contrast": 6.963351061355182
+            },
+            {
+                "name": "Vex Blue Dark",
+                "contrast": 6.133488808867226
+            },
+            {
+                "name": "Vex Aqua Dark",
+                "contrast": 6.045823223849924
+            },
+            {
+                "name": "Vex Pink Dark",
+                "contrast": 5.7935031084713495
+            },
+            {
+                "name": "Vex Black Lightest",
+                "contrast": 5.736367652327499
+            },
+            {
+                "name": "Vex Green Dark",
+                "contrast": 5.022039059214497
+            }
+        ]
+    },
+    {
+        "name": "Vex Purple Light",
+        "variable": "vex-purple-light",
+        "hex": "#9A80B4",
+        "rgb": "rgb(154, 128, 180)",
+        "hsl": "hsl(270, 25.7%, 60.4%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 6.1207310362499845
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 5.203917892065479
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 4.995789782579575
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 4.630914541112631
+            }
+        ]
+    },
+    {
+        "name": "Vex Purple Dark",
+        "variable": "vex-purple-dark",
+        "hex": "#422462",
+        "rgb": "rgb(66, 36, 98)",
+        "hsl": "hsl(269, 46.3%, 26.3%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 12.647790641703109
+            },
+            {
+                "name": "Vex White",
+                "contrast": 11.211858050339279
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 10.874704221473873
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 10.546438303137757
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 10.09981480909059
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 9.866975784858957
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 9.62989728141374
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 9.397670064682325
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 8.885945481357249
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 8.819484938471192
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 8.787295383223183
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 8.033685284231225
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 7.453512689880998
+            },
+            {
+                "name": "Vex Aqua Light",
+                "contrast": 6.26309069652987
+            },
+            {
+                "name": "Vex Orange Light",
+                "contrast": 6.223801415695949
+            },
+            {
+                "name": "Vex Yellow",
+                "contrast": 6.11826049977778
+            },
+            {
+                "name": "Vex Green",
+                "contrast": 5.532479277480045
+            },
+            {
+                "name": "Vex Pink Light",
+                "contrast": 5.489494521831335
+            },
+            {
+                "name": "Vex White Dark",
+                "contrast": 5.376889418341259
+            },
+            {
+                "name": "Vex Blue Light",
+                "contrast": 4.953476405540025
+            }
+        ]
+    },
+    {
+        "name": "Vex Purple Darkest",
+        "variable": "vex-purple-darkest",
+        "hex": "#1F0F34",
+        "rgb": "rgb(31, 15, 52)",
+        "hsl": "hsl(265.9, 55.2%, 13.1%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 17.854448281774122
+            },
+            {
+                "name": "Vex White",
+                "contrast": 15.827391943247703
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 15.351443552654409
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 14.888041917725698
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 14.257558989774843
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 13.92886819832428
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 13.594192680805353
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 13.266365556826877
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 12.543981674430507
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 12.450161626379968
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 12.404720745385792
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 11.340875452698157
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 10.521865882269815
+            },
+            {
+                "name": "Vex Aqua Light",
+                "contrast": 8.841388357310395
+            },
+            {
+                "name": "Vex Orange Light",
+                "contrast": 8.78592503944329
+            },
+            {
+                "name": "Vex Yellow",
+                "contrast": 8.636936581438718
+            },
+            {
+                "name": "Vex Green",
+                "contrast": 7.810009505063504
+            },
+            {
+                "name": "Vex Pink Light",
+                "contrast": 7.749329413308661
+            },
+            {
+                "name": "Vex White Dark",
+                "contrast": 7.590368686215486
+            },
+            {
+                "name": "Vex Blue Light",
+                "contrast": 6.992651191275057
+            },
+            {
+                "name": "Vex Aqua",
+                "contrast": 6.134926845178143
+            },
+            {
+                "name": "Vex Orange",
+                "contrast": 6.1325405184796145
+            },
+            {
+                "name": "Vex Red Light",
+                "contrast": 5.666833564201216
+            },
+            {
+                "name": "Vex Purple Light",
+                "contrast": 5.203917892065479
+            },
+            {
+                "name": "Vex Pink",
+                "contrast": 4.511835699974383
+            }
+        ]
+    },
+    {
+        "name": "Vex Pink",
+        "variable": "vex-pink",
+        "hex": "#E0457B",
+        "rgb": "rgb(224, 69, 123)",
+        "hsl": "hsl(339.1, 71.4%, 57.5%)",
+        "pms": "205 C",
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 5.306719547093577
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 4.511835699974383
+            }
+        ]
+    },
+    {
+        "name": "Vex Pink Lightest",
+        "variable": "vex-pink-lightest",
+        "hex": "#F7D9E3",
+        "rgb": "rgb(247, 217, 227)",
+        "hsl": "hsl(340, 65.2%, 91%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 15.989183299958327
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 13.594192680805353
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 13.050499701529665
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 12.097336250484462
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 11.665030229206433
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 11.458439088048591
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 11.294882098009293
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 11.075147891745662
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 10.491730245765945
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 9.747127215455407
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 9.62989728141374
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 8.470196264157924
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 8.265668998126436
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 8.115713618707195
+            },
+            {
+                "name": "Vex Purple",
+                "contrast": 7.603205393862557
+            },
+            {
+                "name": "Vex Blue Dark",
+                "contrast": 6.697088051984435
+            },
+            {
+                "name": "Vex Aqua Dark",
+                "contrast": 6.601366977032636
+            },
+            {
+                "name": "Vex Pink Dark",
+                "contrast": 6.325861456009394
+            },
+            {
+                "name": "Vex Black Lightest",
+                "contrast": 6.26347588841327
+            },
+            {
+                "name": "Vex Green Dark",
+                "contrast": 5.483508461194394
+            }
+        ]
+    },
+    {
+        "name": "Vex Pink Light",
+        "variable": "vex-pink-light",
+        "hex": "#EC8FAF",
+        "rgb": "rgb(236, 143, 175)",
+        "hsl": "hsl(339.4, 71%, 74.3%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 9.114586746743848
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 7.749329413308661
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 7.439398835227366
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 6.896050823299835
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 6.649616051857285
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 6.531849381611102
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 6.4386142021911885
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 6.313355366474295
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 5.98077985938901
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 5.5563210997179375
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 5.489494521831335
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 4.828410379898158
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 4.711820215576056
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 4.626338594143826
+            }
+        ]
+    },
+    {
+        "name": "Vex Pink Dark",
+        "variable": "vex-pink-dark",
+        "hex": "#931F47",
+        "rgb": "rgb(147, 31, 71)",
+        "hsl": "hsl(339.29999999999995, 65.2%, 34.9%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 8.308309942043351
+            },
+            {
+                "name": "Vex White",
+                "contrast": 7.3650485169534035
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 7.1435727993585685
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 6.92793553351443
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 6.634549398254798
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 6.481597880102624
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 6.325861456009394
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 6.173311833056206
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 5.837160914396216
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 5.7935031084713495
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 5.7723578500247745
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 5.277312789962329
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 4.896198501285899
+            }
+        ]
+    },
+    {
+        "name": "Vex Pink Darkest",
+        "variable": "vex-pink-darkest",
+        "hex": "#481325",
+        "rgb": "rgb(72, 19, 37)",
+        "hsl": "hsl(339.6, 58.2%, 17.8%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 15.049375339242472
+            },
+            {
+                "name": "Vex White",
+                "contrast": 13.340785345822447
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 12.939612155864033
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 12.549014528494064
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 12.017585381092028
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 11.740534474056066
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 11.458439088048591
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 11.182116159595367
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 10.573224413760814
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 10.49414422628173
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 10.455842461755894
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 9.559135553770071
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 8.868798768376939
+            },
+            {
+                "name": "Vex Aqua Light",
+                "contrast": 7.452337356455756
+            },
+            {
+                "name": "Vex Orange Light",
+                "contrast": 7.405587757982091
+            },
+            {
+                "name": "Vex Yellow",
+                "contrast": 7.280006547611418
+            },
+            {
+                "name": "Vex Green",
+                "contrast": 6.582996158146925
+            },
+            {
+                "name": "Vex Pink Light",
+                "contrast": 6.531849381611102
+            },
+            {
+                "name": "Vex White Dark",
+                "contrast": 6.397862623327112
+            },
+            {
+                "name": "Vex Blue Light",
+                "contrast": 5.894051204109376
+            },
+            {
+                "name": "Vex Aqua",
+                "contrast": 5.171082035961206
+            },
+            {
+                "name": "Vex Orange",
+                "contrast": 5.169070619780686
+            },
+            {
+                "name": "Vex Red Light",
+                "contrast": 4.7765298566933465
+            }
+        ]
+    },
+    {
+        "name": "Vex Red",
+        "variable": "vex-red",
+        "hex": "#C8102E",
+        "rgb": "rgb(200, 16, 46)",
+        "hsl": "hsl(350.20000000000005, 85.2%, 42.4%)",
+        "pms": "186 C",
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 5.883276112656104
+            },
+            {
+                "name": "Vex White",
+                "contrast": 5.215334323178664
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 5.058503053287618
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 4.905806104812043
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 4.698053667385163
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 4.589745717944623
+            }
+        ]
+    },
+    {
+        "name": "Vex Red Lightest",
+        "variable": "vex-red-lightest",
+        "hex": "#F3CED4",
+        "rgb": "rgb(243, 206, 212)",
+        "hsl": "hsl(350.29999999999995, 60.7%, 88%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 14.590153195549593
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 12.404720745385792
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 11.908600104940213
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 11.038837058869905
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 10.644357180850033
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 10.455842461755894
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 10.30659646862987
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 10.106088683363737
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 9.573719226328796
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 8.894267869852726
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 8.787295383223183
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 7.729066505276605
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 7.5424350752601566
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 7.405600571759956
+            },
+            {
+                "name": "Vex Purple",
+                "contrast": 6.93793606543824
+            },
+            {
+                "name": "Vex Blue Dark",
+                "contrast": 6.1111026629354095
+            },
+            {
+                "name": "Vex Aqua Dark",
+                "contrast": 6.023757041749549
+            },
+            {
+                "name": "Vex Pink Dark",
+                "contrast": 5.7723578500247745
+            },
+            {
+                "name": "Vex Black Lightest",
+                "contrast": 5.715430928158718
+            },
+            {
+                "name": "Vex Green Dark",
+                "contrast": 5.003709507672424
+            }
+        ]
+    },
+    {
+        "name": "Vex Red Light",
+        "variable": "vex-red-light",
+        "hex": "#DD6F81",
+        "rgb": "rgb(221, 111, 129)",
+        "hsl": "hsl(350.20000000000005, 61.8%, 65.1%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 6.665202025296111
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 5.666833564201216
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 5.440191372500465
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 5.042858572872027
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 4.862648807650464
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 4.7765298566933465
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 4.708349990291783
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 4.616752261430984
+            }
+        ]
+    },
+    {
+        "name": "Vex Red Dark",
+        "variable": "vex-red-dark",
+        "hex": "#7A1125",
+        "rgb": "rgb(122, 17, 37)",
+        "hsl": "hsl(348.6, 75.5%, 27.3%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 10.85602971110523
+            },
+            {
+                "name": "Vex White",
+                "contrast": 9.623519835143924
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 9.334129214515903
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 9.05236739037171
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 8.669015225680852
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 8.469161556643286
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 8.265668998126436
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 8.066340464315092
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 7.627109816223663
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 7.570064467464627
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 7.5424350752601566
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 6.8955858462517305
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 6.39760393776981
+            },
+            {
+                "name": "Vex Aqua Light",
+                "contrast": 5.375824174436161
+            },
+            {
+                "name": "Vex Orange Light",
+                "contrast": 5.3421008458213874
+            },
+            {
+                "name": "Vex Yellow",
+                "contrast": 5.251511481132899
+            },
+            {
+                "name": "Vex Green",
+                "contrast": 4.748715496156393
+            },
+            {
+                "name": "Vex Pink Light",
+                "contrast": 4.711820215576056
+            },
+            {
+                "name": "Vex White Dark",
+                "contrast": 4.615167417965727
+            }
+        ]
+    },
+    {
+        "name": "Vex Red Darkest",
+        "variable": "vex-red-darkest",
+        "hex": "#41111C",
+        "rgb": "rgb(65, 17, 28)",
+        "hsl": "hsl(346.29999999999995, 58.5%, 16.1%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 15.888495146643033
+            },
+            {
+                "name": "Vex White",
+                "contrast": 14.084637962799055
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 13.661096245090896
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 13.248719759897163
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 12.687659301310255
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 12.39516064986553
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 12.097336250484462
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 11.80560616809446
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 11.162763968305837
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 11.079274444878196
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 11.038837058869905
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 10.092131761518262
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 9.363303327312963
+            },
+            {
+                "name": "Vex Aqua Light",
+                "contrast": 7.867863167080393
+            },
+            {
+                "name": "Vex Orange Light",
+                "contrast": 7.818506914630533
+            },
+            {
+                "name": "Vex Yellow",
+                "contrast": 7.685923574358522
+            },
+            {
+                "name": "Vex Green",
+                "contrast": 6.950049430712916
+            },
+            {
+                "name": "Vex Pink Light",
+                "contrast": 6.896050823299835
+            },
+            {
+                "name": "Vex White Dark",
+                "contrast": 6.754593260396312
+            },
+            {
+                "name": "Vex Blue Light",
+                "contrast": 6.2226904332941695
+            },
+            {
+                "name": "Vex Aqua",
+                "contrast": 5.459410107011008
+            },
+            {
+                "name": "Vex Orange",
+                "contrast": 5.457286538723179
+            },
+            {
+                "name": "Vex Red Light",
+                "contrast": 5.042858572872027
+            },
+            {
+                "name": "Vex Purple Light",
+                "contrast": 4.630914541112631
+            }
+        ]
+    },
+    {
+        "name": "Vex Orange",
+        "variable": "vex-orange",
+        "hex": "#FF6720",
+        "rgb": "rgb(255, 103, 32)",
+        "hsl": "hsl(19.100000000000023, 100%, 56.3%)",
+        "pms": "165 C",
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 7.2129560575408185
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 6.1325405184796145
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 5.887272608622129
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 5.457286538723179
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 5.262266926001818
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 5.169070619780686
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 5.095287652888301
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 4.996162316441485
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 4.732974024413051
+            }
+        ]
+    },
+    {
+        "name": "Vex Orange Lightest",
+        "variable": "vex-orange-lightest",
+        "hex": "#FDE0D2",
+        "rgb": "rgb(253, 224, 210)",
+        "hsl": "hsl(19.5, 91.5%, 90.8%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 16.769419814047637
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 14.257558989774843
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 13.687335004698127
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 12.687659301310255
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 12.234257709562241
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 12.017585381092028
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 11.846047174415883
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 11.61559042855126
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 11.00370330155943
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 10.222765302673519
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 10.09981480909059
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 8.883522966517768
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 8.669015225680852
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 8.511742357912638
+            },
+            {
+                "name": "Vex Purple",
+                "contrast": 7.9742248737898285
+            },
+            {
+                "name": "Vex Blue Dark",
+                "contrast": 7.023891024856923
+            },
+            {
+                "name": "Vex Aqua Dark",
+                "contrast": 6.923498974756225
+            },
+            {
+                "name": "Vex Pink Dark",
+                "contrast": 6.634549398254798
+            },
+            {
+                "name": "Vex Black Lightest",
+                "contrast": 6.569119553982527
+            },
+            {
+                "name": "Vex Green Dark",
+                "contrast": 5.751091454426619
+            },
+            {
+                "name": "Vex Orange Dark",
+                "contrast": 4.708150029788748
+            },
+            {
+                "name": "Vex Red",
+                "contrast": 4.698053667385163
+            }
+        ]
+    },
+    {
+        "name": "Vex Orange Light",
+        "variable": "vex-orange-light",
+        "hex": "#F7A17A",
+        "rgb": "rgb(247, 161, 122)",
+        "hsl": "hsl(18.69999999999999, 88.7%, 72.4%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 10.333807178833514
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 8.78592503944329
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 8.43453633453457
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 7.818506914630533
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 7.539107586827
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 7.405587757982091
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 7.299880895654676
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 7.157866705465967
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 6.780803953405388
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 6.299567107491921
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 6.223801415695949
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 5.474286792428734
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 5.3421008458213874
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 5.245184702746632
+            },
+            {
+                "name": "Vex Purple",
+                "contrast": 4.91395070074951
+            }
+        ]
+    },
+    {
+        "name": "Vex Orange Dark",
+        "variable": "vex-orange-dark",
+        "hex": "#B03E25",
+        "rgb": "rgb(176, 62, 37)",
+        "hsl": "hsl(10.800000000000011, 65.3%, 41.8%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 5.895919579921302
+            },
+            {
+                "name": "Vex White",
+                "contrast": 5.226542348695318
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 5.069374040224226
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 4.9163489380409935
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 4.708150029788748
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 4.599609320915013
+            }
+        ]
+    },
+    {
+        "name": "Vex Orange Darkest",
+        "variable": "vex-orange-darkest",
+        "hex": "#57220E",
+        "rgb": "rgb(87, 34, 14)",
+        "hsl": "hsl(16.399999999999977, 72.3%, 19.8%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 12.8017590194927
+            },
+            {
+                "name": "Vex White",
+                "contrast": 11.348346046141954
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 11.007087861854599
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 10.67482578542561
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 10.222765302673519
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 9.987091803404892
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 9.747127215455407
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 9.512072971549708
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 8.994118888843941
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 8.926849285920042
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 8.894267869852726
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 8.131483668623098
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 7.544248320332623
+            },
+            {
+                "name": "Vex Aqua Light",
+                "contrast": 6.339334677934351
+            },
+            {
+                "name": "Vex Orange Light",
+                "contrast": 6.299567107491921
+            },
+            {
+                "name": "Vex Yellow",
+                "contrast": 6.19274138507476
+            },
+            {
+                "name": "Vex Green",
+                "contrast": 5.599829131983442
+            },
+            {
+                "name": "Vex Pink Light",
+                "contrast": 5.5563210997179375
+            },
+            {
+                "name": "Vex White Dark",
+                "contrast": 5.442345193563084
+            },
+            {
+                "name": "Vex Blue Light",
+                "contrast": 5.013777745765033
+            }
+        ]
+    },
+    {
+        "name": "Vex Yellow",
+        "variable": "vex-yellow",
+        "hex": "#FF9E1B",
+        "rgb": "rgb(255, 158, 27)",
+        "hsl": "hsl(34.5, 100%, 55.3%)",
+        "pms": "1375 C",
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 10.158570309638856
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 8.636936581438718
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 8.291506595853182
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 7.685923574358522
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 7.4112621967230226
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 7.280006547611418
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 7.176092223047296
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 7.03648625682089
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 6.665817595052257
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 6.19274138507476
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 6.11826049977778
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 5.381455867487173
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 5.251511481132899
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 5.156238806064942
+            },
+            {
+                "name": "Vex Purple",
+                "contrast": 4.830621747414672
+            }
+        ]
+    },
+    {
+        "name": "Vex Yellow Lightest",
+        "variable": "vex-yellow-lightest",
+        "hex": "#FFEBD1",
+        "rgb": "rgb(255, 235, 209)",
+        "hsl": "hsl(33.89999999999998, 100%, 91%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 18.056022203432043
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 15.351443552654409
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 14.737470198200619
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 13.661096245090896
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 13.172908263726407
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 12.939612155864033
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 12.75491300092447
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 12.506774892009302
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 11.847941868954818
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 11.007087861854599
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 10.874704221473873
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 9.565094660804922
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 9.334129214515903
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 9.164789879946829
+            },
+            {
+                "name": "Vex Purple",
+                "contrast": 8.586032371596765
+            },
+            {
+                "name": "Vex Blue Dark",
+                "contrast": 7.5627859344939505
+            },
+            {
+                "name": "Vex Aqua Dark",
+                "contrast": 7.454691492004786
+            },
+            {
+                "name": "Vex Pink Dark",
+                "contrast": 7.1435727993585685
+            },
+            {
+                "name": "Vex Black Lightest",
+                "contrast": 7.073122972587725
+            },
+            {
+                "name": "Vex Green Dark",
+                "contrast": 6.19233319617341
+            },
+            {
+                "name": "Vex Orange Dark",
+                "contrast": 5.069374040224226
+            },
+            {
+                "name": "Vex Red",
+                "contrast": 5.058503053287618
+            }
+        ]
+    },
+    {
+        "name": "Vex Yellow Light",
+        "variable": "vex-yellow-light",
+        "hex": "#FDC477",
+        "rgb": "rgb(253, 196, 119)",
+        "hsl": "hsl(34.5, 97.1%, 72.9%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 13.3388823193027
+            },
+            {
+                "name": "Vex Purple Darkest",
+                "contrast": 11.340875452698157
+            },
+            {
+                "name": "Vex Black Dark",
+                "contrast": 10.887302775949346
+            },
+            {
+                "name": "Vex Red Darkest",
+                "contrast": 10.092131761518262
+            },
+            {
+                "name": "Vex Blue Darkest",
+                "contrast": 9.731483000692021
+            },
+            {
+                "name": "Vex Pink Darkest",
+                "contrast": 9.559135553770071
+            },
+            {
+                "name": "Vex Black",
+                "contrast": 9.422689094829341
+            },
+            {
+                "name": "Vex Aqua Darkest",
+                "contrast": 9.239377122986252
+            },
+            {
+                "name": "Vex Green Darkest",
+                "contrast": 8.752664376203974
+            },
+            {
+                "name": "Vex Orange Darkest",
+                "contrast": 8.131483668623098
+            },
+            {
+                "name": "Vex Purple Dark",
+                "contrast": 8.033685284231225
+            },
+            {
+                "name": "Vex Black Light",
+                "contrast": 7.066211517463458
+            },
+            {
+                "name": "Vex Red Dark",
+                "contrast": 6.8955858462517305
+            },
+            {
+                "name": "Vex Yellow Darkest",
+                "contrast": 6.77048645113598
+            },
+            {
+                "name": "Vex Purple",
+                "contrast": 6.342929472732013
+            },
+            {
+                "name": "Vex Blue Dark",
+                "contrast": 5.5870063987359115
+            },
+            {
+                "name": "Vex Aqua Dark",
+                "contrast": 5.507151653793277
+            },
+            {
+                "name": "Vex Pink Dark",
+                "contrast": 5.277312789962329
+            },
+            {
+                "name": "Vex Black Lightest",
+                "contrast": 5.225267996368038
+            },
+            {
+                "name": "Vex Green Dark",
+                "contrast": 4.574584748238098
+            }
+        ]
+    },
+    {
+        "name": "Vex Yellow Dark",
+        "variable": "vex-yellow-dark",
+        "hex": "#B06928",
+        "rgb": "rgb(176, 105, 40)",
+        "hsl": "hsl(28.69999999999999, 63%, 42.4%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex Black Darkest",
+                "contrast": 4.897291628468426
+            }
+        ]
+    },
+    {
+        "name": "Vex Yellow Darkest",
+        "variable": "vex-yellow-darkest",
+        "hex": "#583712",
+        "rgb": "rgb(88, 55, 18)",
+        "hsl": "hsl(31.69999999999999, 66%, 20.8%)",
+        "pms": null,
+        "contrastList": [
+            {
+                "name": "Vex White Lightest",
+                "contrast": 10.659080129082971
+            },
+            {
+                "name": "Vex White",
+                "contrast": 9.448930389503806
+            },
+            {
+                "name": "Vex Yellow Lightest",
+                "contrast": 9.164789879946829
+            },
+            {
+                "name": "Vex Green Lightest",
+                "contrast": 8.888139765605553
+            },
+            {
+                "name": "Vex Orange Lightest",
+                "contrast": 8.511742357912638
+            },
+            {
+                "name": "Vex Aqua Lightest",
+                "contrast": 8.315514424768399
+            },
+            {
+                "name": "Vex Pink Lightest",
+                "contrast": 8.115713618707195
+            },
+            {
+                "name": "Vex Blue Lightest",
+                "contrast": 7.920001293810523
+            },
+            {
+                "name": "Vex White Light",
+                "contrast": 7.488739147542968
+            },
+            {
+                "name": "Vex Purple Lightest",
+                "contrast": 7.432728712826487
+            },
+            {
+                "name": "Vex Red Lightest",
+                "contrast": 7.405600571759956
+            },
+            {
+                "name": "Vex Yellow Light",
+                "contrast": 6.77048645113598
+            },
+            {
+                "name": "Vex Green Light",
+                "contrast": 6.281538907089322
+            },
+            {
+                "name": "Vex Aqua Light",
+                "contrast": 5.278296224314831
+            },
+            {
+                "name": "Vex Orange Light",
+                "contrast": 5.245184702746632
+            },
+            {
+                "name": "Vex Yellow",
+                "contrast": 5.156238806064942
+            },
+            {
+                "name": "Vex Green",
+                "contrast": 4.662564522273749
+            },
+            {
+                "name": "Vex Pink Light",
+                "contrast": 4.626338594143826
+            },
+            {
+                "name": "Vex White Dark",
+                "contrast": 4.531439267056074
+            }
+        ]
+    }
+]
