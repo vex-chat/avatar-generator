@@ -1,6 +1,6 @@
 {
     "name": "@vex-chat/avatar-generator",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Generates default avatars in the vex color scheme",
     "main": "./dist/index.js",
     "author": "Extra <extrahash@protonmail.com>",
